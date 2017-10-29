@@ -1,0 +1,14 @@
+child
+{Undefined function or variable 'prompt'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Activity2matlabengineering', 'C:\Users\Sriram\Documents\MATLAB\Activity2matlabengineering.m', 2)" style="font-weight:bold">Activity2matlabengineering</a> (<a href="matlab: opentoline('C:\Users\Sriram\Documents\MATLAB\Activity2matlabengineering.m',2,0)">line 2</a>)
+age = input(prompt, 'age pls')
+} 
+Activity2matlabengineering
+age pls 34
+
+age =
+
+    34
+
+adult

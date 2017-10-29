@@ -1,0 +1,21 @@
+{Error using validateHandleToPrint
+No figure to print.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\private\validate.m', 17)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\private\validate.m',17,0)">line 17</a>)
+pj = validateHandleToPrint(pj);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m',81,0)">line 81</a>)
+    pj = validate( pj );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Activity1matlabengineering', 'C:\Users\Sriram\Documents\MATLAB\Activity1matlabengineering.m', 2)" style="font-weight:bold">Activity1matlabengineering</a> (<a href="matlab: opentoline('C:\Users\Sriram\Documents\MATLAB\Activity1matlabengineering.m',2,0)">line 2</a>)
+print('Howdym World')
+} 
+Activity1matlabengineering
+{Undefined function 'printf' for input arguments of type
+'char'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Activity1matlabengineering', 'C:\Users\Sriram\Documents\MATLAB\Activity1matlabengineering.m', 2)" style="font-weight:bold">Activity1matlabengineering</a> (<a href="matlab: opentoline('C:\Users\Sriram\Documents\MATLAB\Activity1matlabengineering.m',2,0)">line 2</a>)
+printf('Howdy World')
+} 
+Activity1matlabengineering
+Howdy World
